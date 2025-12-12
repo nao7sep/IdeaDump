@@ -6,6 +6,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <BlazorDisableThrowNavigationException>true</BlazorDisableThrowNavigationException>
 
+    <!-- Set explicitly for consistency with other projects in this solution -->
+    <RootNamespace>IdeaDump</RootNamespace>
+
     <!-- Assembly Information -->
     <AssemblyTitle>IdeaDump</AssemblyTitle>
     <Product>IdeaDump</Product>
