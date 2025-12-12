@@ -11,7 +11,7 @@
     <!-- Assembly Information -->
     <AssemblyTitle>IdeaDump Core</AssemblyTitle>
     <Product>IdeaDump</Product>
-    <Description>Business logic library for IdeaDump application</Description>
+    <Description>Core business logic library for IdeaDump - handles AI elaboration, email delivery, background processing, and data access</Description>
 
     <!-- Version Information - Keep these three in sync with IdeaDump.csproj -->
     <Version>0.1.0</Version>

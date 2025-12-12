@@ -12,7 +12,7 @@
     <!-- Assembly Information -->
     <AssemblyTitle>IdeaDump</AssemblyTitle>
     <Product>IdeaDump</Product>
-    <Description>Web application for capturing and organizing ideas</Description>
+    <Description>Blazor Server web application that captures fragmented ideas, uses AI to elaborate them into actionable reports, and emails the results to registered recipients</Description>
 
     <!-- Version Information - Keep these three in sync with IdeaDumpCore.csproj -->
     <Version>0.1.0</Version>
