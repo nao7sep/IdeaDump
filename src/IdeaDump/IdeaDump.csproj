@@ -32,4 +32,8 @@
     <NeutralLanguage>en-US</NeutralLanguage>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\IdeaDumpCore\IdeaDumpCore.csproj" />
+  </ItemGroup>
+
 </Project>
