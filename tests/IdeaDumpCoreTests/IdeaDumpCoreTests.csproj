@@ -7,7 +7,7 @@
     <IsPackable>false</IsPackable>
 
     <!-- Explicitly set to use dots in namespace paths while keeping folder names dot-free -->
-    <RootNamespace>IdeaDump.Tests</RootNamespace>
+    <RootNamespace>IdeaDump.Core.Tests</RootNamespace>
 
     <!-- Version Information - Keep in sync with IdeaDump.csproj -->
     <Version>0.1.0</Version>
